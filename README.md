@@ -74,4 +74,5 @@ The embedded firmware is written in C using the Arduino framework with STM32duin
 Jad Haddad
 
 ## Contact
-[Add contact information]
+jadkh6@gmail.com
+
