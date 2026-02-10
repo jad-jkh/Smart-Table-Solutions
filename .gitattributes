@@ -1,0 +1,6 @@
+*.ino linguist-language=C
+*.h linguist-language=C
+*.c linguist-language=C
+*.md linguist-documentation
+docs/* linguist-documentation
+*.kicad_* linguist-generated
